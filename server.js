@@ -57,4 +57,4 @@ app.get('/logout',(req,res)=>{
 const port = 3232
 app.listen(port,()=>{
     console.log('rodando porta:3232')
-})
+})//
